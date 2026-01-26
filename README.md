@@ -58,7 +58,7 @@ Para replicar este análisis, sigue los pasos a continuación según tu entorno 
 ### Prerrequisitos
 
 1.  **Git LFS:** Este repositorio utiliza Git Large File Storage (LFS). Debes tenerlo instalado. Puedes descargarlo desde [git-lfs.github.com](https://git-lfs.github.com/).
-2.  **PostgreSQL y PostGIS:** Necesitas una instancia de PostgreSQL con la extensión PostGIS habilitada y segpun tú versión de Postgis seguir los pasos de https://postgis.net/docs/manual-3.5/es/postgis_gdal_enabled_drivers.html. Se recomienda usar Docker para una configuración rápida se puede usar la imagen oficial de PostGIS o pudes usar mi stack https://github.com/chachr81/gis-engine.
+2.  **PostgreSQL y PostGIS:** Necesitas una instancia de PostgreSQL con la extensión PostGIS habilitada y según tú versión de Postgis seguir los pasos de https://postgis.net/docs/manual-3.5/es/postgis_gdal_enabled_drivers.html. Se recomienda usar Docker para una configuración rápida se puede usar la imagen oficial de PostGIS o pudes usar mi stack https://github.com/chachr81/gis-engine.
 3.  **Clonar el Repositorio:**
     ```bash
     # Clona el repositorio y descarga los archivos de LFS
